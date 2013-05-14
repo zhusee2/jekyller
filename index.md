@@ -40,6 +40,14 @@ style: |
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
 
+## CSS Test
+
+```css
+.test {
+  content: none;
+}
+```
+
 ## Shower Key Features
 
 1. Built on HTML, CSS and vanilla JavaScript
